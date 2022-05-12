@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Nunito', sans-serif;
+}
+pre {
+  font-size: 7em;
+}
+
+.mark .land { 
+  fill:  #c3cbae;
+ 
+ 
+}
+.mark .interiors {
+  fill: none;
+  stroke: #000;
+  stroke-width: 0.3;
+}
+.mark .sphere {
+  fill: #f1f2f3;
+  stroke: #C0C0BB;
+}
+.mark .graticules {
+  fill: none;
+  stroke: #E4E1DF;
+  opacity:0.7;
+}
+
+.cities{
+  fill: #5D8100;
+opacity:0.4;}
